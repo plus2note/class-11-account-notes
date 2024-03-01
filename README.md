@@ -97,7 +97,7 @@ This repository is licensed under the [MIT License](./LICENSE), allowing for wid
 
 For any questions, feedback, or collaboration inquiries, feel free to reach out:
 
--  Email: your.email@example.com
--  Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+-  Email: chaudharypradip678@gmail.com
+<!-- -  Twitter: [@YourTwitterHandle](https://twitter.com/) -->
 
 Happy learning, and best of luck with your Class 11 commerce studies!
